@@ -5,7 +5,8 @@ public class cobacoba {
         Scanner input= new Scanner (System.in);
         
         //Deklarasi
-        int panjang,lebar,tinggi,volume;
+        int panjang=13,lebar=23,tinggi=56,volume;
+
 
         //Input
         System.out.print("Masukkan panjang:");
