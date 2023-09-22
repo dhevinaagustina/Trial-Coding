@@ -24,6 +24,7 @@ public class cobacoba {
         //Output
         System.out.print("Volume adalah:" + volume);
 
+        input.close();
 
 
 
